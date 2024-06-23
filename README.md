@@ -10,7 +10,7 @@ Creating user-centric designs brings me immense satisfaction, and I love craftin
 
 Join me on this exciting journey of discovery and innovation 🤩. Together, let's explore endless possibilities and forge successful careers as designers and analysts 😍😎</p><br>
 
-<IMG align="right"   height=200px  SRC="https://github.com/akakipertsuliani">
+<IMG align="right"   height=200px  SRC="https://github.com/dharshu-19/dharshiniUdayakumaran/blob/main/full-stack-development.gif?raw=true">
 
 - 🔭 I’m currently learning for *designer*
 
