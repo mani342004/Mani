@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mani Deivam</h1>
-<h3 align="center">"Design Specialist | Leading in UX/UI and User-Friendly Design"</h3>
+<h3 align="center">"Design Specialist | Leading in UX/UI and User-Friendly Design"</h3><br> <br>
 
+
+![image](https://github.com/mani342004/Mani/blob/main/mani.jpg)<br>
+
+<p>Hello everyone! I'm a passionate junior UI/UX Developer 🎨 and Marketing Analyst 📊. My journey began from the ground up, and I am committed to continuous growth and learning. In the ever-evolving fields of design and marketing, perseverance is essential 😊😇, and I am driven to reach new heights 🥰.
+
+Creating user-centric designs brings me immense satisfaction, and I love crafting intuitive and engaging user experiences. As a student at KGiSL Institute of Technology 👩‍🎓 and an intern at CODSOFT 👩‍💻, I am always looking for ways to enhance my skills and broaden my knowledge. I firmly believe that the pursuit of knowledge never ends, especially in the fast-paced world of UI/UX design and marketing analytics 🤩.
+
+Join me on this exciting journey of discovery and innovation 🤩. Together, let's explore endless possibilities and forge successful careers as designers and analysts 😍😎</p><br>
+
+<IMG align="right"   height=200px  SRC="https://github.com/akakipertsuliani">
 
 - 🔭 I’m currently learning for *designer*
 
